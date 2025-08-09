@@ -72,9 +72,9 @@ For Software:
 
 # Screenshots 
 ![Screenshot1](screenshots1/3.jpg)  
-*This shows when the user scrolls 60 reels.*
+*This shows when the user scrolls 20 reels.*
 ![Screenshot2](screenshots1/7.jpg)  
-*This screenshot displays the extension popup UI tracking the number of reels watched.*
+*This screenshot displays the extension's UI tracking the number of reels watched, total time wasted, avarage reels/hour etc.*
 ![Screenshot3](screenshots1/2.jpg)  
 *This shows when the user scrolls till 100 reels.*
 
