@@ -45,7 +45,13 @@ For Software:
 - Icons: Provided in PNG and SVG formats, with a Python script (create-icons.py) to generate them.
   
 # Installation
-[commands]
+1. Download or clone the project repository from GitHub.  
+2. Open your browser and navigate to the Extensions page  
+   (e.g., `chrome://extensions/` for Chrome/Brave, `edge://extensions/` for Edge).  
+3. Enable **Developer mode** from the top-right corner of the page.  
+4. Click on **Load unpacked**.  
+5. Select the `Reel Counter` folder from the downloaded project files.  
+6. The extension will now appear in your browser’s extension list and is ready to use.  
 
 # Run
 Once installed:  
