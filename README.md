@@ -80,7 +80,7 @@ For Software:
 
 
 # Diagrams
-![Workflow](https://app.eraser.io/workspace/ujGIDQw7YXOolr0rRpKe?origin=share)  
+![Workflow](screenshots1/3.jpg)  
 *This diagram shows the overall workflow and architecture of the project.*
 
 
