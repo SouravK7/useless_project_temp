@@ -80,17 +80,10 @@ For Software:
 
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+![Workflow](https://app.eraser.io/workspace/ujGIDQw7YXOolr0rRpKe?origin=share)  
+*This diagram shows the overall workflow and architecture of the project.*
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
 # Build Photos
 ![Components](Add photo of your components here)
@@ -104,7 +97,7 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+[Demo Video Link](https://drive.google.com/drive/folders/1i9bM-rhi_Bx-PcBEeBZ5E7OtD7UsWidb?usp=sharing)
 *Explain what the video demonstrates*
 
 # Additional Demos
