@@ -92,7 +92,7 @@ For Software:
 
 ## Team Contributions
 - Pranav Pradeep: Proposed this idea, Made overall architecture,Did most coding,Prepared wireframe
-- Sourav K: Updates,Bug fixes,Version Control,Deployment
+- Sourav K: Updates,Resource gathering,Bug fixes,Version Control,Deployment
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
