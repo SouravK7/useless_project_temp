@@ -71,14 +71,13 @@ For Software:
 - TESTING.md → Testing process and verification steps.
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1](screenshots1/3.jpg)  
+*This shows when the user scrolls 60 reels.*
+![Screenshot2](screenshots1/7.jpg)  
+*This screenshot displays the extension popup UI tracking the number of reels watched.*
+![Screenshot3](screenshots1/2.jpg)  
+*This shows when the user scrolls till 100 reels.*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
