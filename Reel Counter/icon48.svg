@@ -1,0 +1,21 @@
+<svg width="48" height="48" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <circle cx="24" cy="24" r="20" fill="url(#grad1)" stroke="#4a5568" stroke-width="2"/>
+  
+  <!-- Film reel holes -->
+  <circle cx="24" cy="10" r="2" fill="white" stroke="#4a5568" stroke-width="1"/>
+  <circle cx="35" cy="16" r="2" fill="white" stroke="#4a5568" stroke-width="1"/>
+  <circle cx="35" cy="32" r="2" fill="white" stroke="#4a5568" stroke-width="1"/>
+  <circle cx="24" cy="38" r="2" fill="white" stroke="#4a5568" stroke-width="1"/>
+  <circle cx="13" cy="32" r="2" fill="white" stroke="#4a5568" stroke-width="1"/>
+  <circle cx="13" cy="16" r="2" fill="white" stroke="#4a5568" stroke-width="1"/>
+  
+  <!-- Center circle -->
+  <circle cx="24" cy="24" r="8" fill="white" stroke="#4a5568" stroke-width="2"/>
+  <text x="24" y="28" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#764ba2">123</text>
+</svg>
