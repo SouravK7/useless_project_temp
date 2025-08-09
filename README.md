@@ -13,13 +13,13 @@
 - Member 2: Sourav K - College of Engineering Thalassery
 
 ### Project Description
-[2-3 lines about what your project does]
+This project tracks the number of instagram reels or short videos a user watches within an application and displays a subtle notification when a certain number of videos is reached. The goal is to encourage users to take breaks and maintain healthy screen time habits.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+We all know how easy it is to “just watch one more” and suddenly an hour’s gone. Most people don’t even realize how much time they spend scrolling, and there’s usually nothing to remind them to stop.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+This app quietly counts your reels in the background and, when you’ve hit a set milestone, pops up a message suggesting you put the phone down for a bit. It’s a small reminder to help you not go overboard with a little bit of sarcasm.
 
 ## Technical Details
 ### Technologies/Components Used
