@@ -48,10 +48,11 @@ For Software:
 [commands]
 
 # Run
-- Once installed:
-1.Open Instagram in your browser.
-2.Start watching reels.
-3.The extension will track the number of reels scrolled and display it in the popup UI.
+Once installed:  
+1. Open Instagram in your browser.  
+2. Start watching reels.  
+3. The extension will track the number of reels scrolled and display it in the popup UI.  
+
 
 ### Project Documentation
 For Software:
