@@ -5,13 +5,12 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Phantom Oreo🚀
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Pranav Pradeep - College of Engineering,Thalassery
+- Member 2: Sourav K - College of Engineering Thalassery
 
 ### Project Description
 [2-3 lines about what your project does]
