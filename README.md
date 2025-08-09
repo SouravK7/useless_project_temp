@@ -98,10 +98,8 @@ For Software:
 ### Project Demo
 # Video
 [Demo Video Link](https://drive.google.com/drive/folders/1i9bM-rhi_Bx-PcBEeBZ5E7OtD7UsWidb?usp=sharing)
-*Explain what the video demonstrates*
+*This video demonstrates the working of the extension*
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
 - [Name 1]: [Specific contributions]
