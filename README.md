@@ -24,26 +24,44 @@ This app quietly counts your reels in the background and, when you’ve hit a se
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Languages used: JavaScript, HTML, CSS, Python (for icon generation script)
+- Frameworks used: None (uses native WebExtension/Chrome Extension APIs)
+- Libraries used: None external — only built-in browser APIs (storage, activeTab)
+- Tools used: VS Code , Warp AI (built-in AI coding assistant) , Command-line interface (CLI) , Git (for version control)
+
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Main components: Desktop/laptop with a modern browser
+- Specifications: Supports Chrome, Edge, Brave, or any Chromium browser with Extension Manifest V3 support
+- Tools required: Internet connection for Instagram access
 
 ### Implementation
 For Software:
+- Manifest Configuration: Defines permissions (activeTab, storage) and sets up the extension to run on instagram.com.
+- Content Script (content.js): Injected into Instagram to detect reel scrolling and update the counter.
+- Storage API: Saves and retrieves the current reel count.
+- Popup UI (popup.html, popup.js): Displays the counter and allows interaction from the extension icon.
+- CSS Styling (styles.css): Styles the popup interface.
+- Icons: Provided in PNG and SVG formats, with a Python script (create-icons.py) to generate them.
+  
 # Installation
 [commands]
 
 # Run
-[commands]
+- Once installed:
+1)Open Instagram in your browser.
+2)Start watching reels.
+3)The extension will track the number of reels scrolled and display it in the popup UI.
 
 ### Project Documentation
 For Software:
+- manifest.json → Defines extension metadata, permissions, icons, and popup.
+- content.js → Main logic for detecting reel scroll events and updating the counter.
+- popup.html / popup.js → User interface displayed when the extension icon is clicked.
+- styles.css → Styles for popup elements.
+- create-icons.py → Optional helper script for generating icon sizes.
+- INSTALL.md → Step-by-step installation instructions.
+- TESTING.md → Testing process and verification steps.
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
