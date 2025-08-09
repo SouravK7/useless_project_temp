@@ -379,27 +379,27 @@
         const memeMessages = [
             {
                 title: "🎬 20 Reels Down!",
-                message: "Your thumb is now an Olympic athlete! 🏆 Time for some finger stretches? 💪"
+                message: "POV: You came here to watch 'just one reel' 💀"
             },
             {
                 title: "🚀 Another 20!",
-                message: "POV: You came here to watch 'just one reel' 💀 We've all been there, bestie!"
+                message: "Still here? Bro scrolling like it’s a side hustle 💀📱"
             },
             {
-                title: "🔥 Keep Going!",
-                message: "Breaking News: Local person discovers infinite scroll is actually infinite! More at 11 📺"
+                title: "60 Reels😵🔥",
+                message: "Touch some grass lil bro 😭🥀"
             },
             {
-                title: "🎯 Scroll Master!",
-                message: "At this point, the algorithm knows you better than your therapist 🤖💭"
+                title: "80 Reels Down🥀",
+                message: "Even your ancestors disappointed rn🪦📱"
             },
             {
                 title: "⚡ Unstoppable!",
-                message: "Your screen time report is going to be WILD this week 📊📈"
+                message: "Bro’s thumb got more steps than his legs 😭🙏"
             },
             {
-                title: "🎪 Reel Addict!",
-                message: "Congratulations! You've unlocked the 'Professional Scroller' achievement 🥇"
+                title: "Doomscroller 😭🙏",
+                message: "At this point, just marry the phone bro🥀💍📱"
             },
             {
                 title: "🌪️ In The Zone!",
