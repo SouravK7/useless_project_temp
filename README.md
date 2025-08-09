@@ -70,7 +70,7 @@ For Software:
 - INSTALL.md → Step-by-step installation instructions.
 - TESTING.md → Testing process and verification steps.
 
-# Screenshots (Add at least 3)
+# Screenshots 
 ![Screenshot1](screenshots1/3.jpg)  
 *This shows when the user scrolls 60 reels.*
 ![Screenshot2](screenshots1/7.jpg)  
@@ -102,9 +102,8 @@ For Software:
 
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Pranav Pradeep]: [Proposed this idea, Made overall architecture,Did most coding]
+- [Sourav K]: [Updates,Bug fixes,Version Control,Deployment]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
