@@ -91,8 +91,8 @@ For Software:
 
 
 ## Team Contributions
-- Pranav Pradeep: Proposed this idea, Made overall architecture,Did most coding,Prepared wireframe
-- Sourav K: Updates,Resource gathering,Bug fixes,Version Control,Deployment
+- Pranav Pradeep: Proposed this idea, Made overall architecture,Did most coding,Prepared Wireframe.
+- Sourav K: Updates,Resource gathering,Bug fixes,Version Control,Deployment.
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
