@@ -378,27 +378,27 @@
 
         const memeMessages = [
             {
-                title: "🎬 20 Reels Down!",
+                title: "🎬20 Reels Down!",
                 message: "POV: You came here to watch 'just one reel' 💀"
             },
             {
-                title: "🚀 Another 20!",
+                title: "🚀Another 20!",
                 message: "Still here? Bro scrolling like it’s a side hustle 💀📱"
             },
             {
-                title: "60 Reels😵🔥",
+                title: "😵🔥",
                 message: "Touch some grass lil bro 😭🥀"
             },
             {
-                title: "80 Reels Down🥀",
+                title: "🥀",
                 message: "Even your ancestors disappointed rn🪦📱"
             },
             {
-                title: "⚡ Unstoppable!",
+                title: "Bruh",
                 message: "Bro’s thumb got more steps than his legs 😭🙏"
             },
             {
-                title: "Doomscroller 😭🙏",
+                title: "Doomscroller",
                 message: "At this point, just marry the phone bro🥀💍📱"
             },
             {
