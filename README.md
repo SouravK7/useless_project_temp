@@ -84,17 +84,6 @@ For Software:
 *This diagram shows the overall workflow and architecture of the project.*
 
 
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
 ### Project Demo
 # Video
 [Demo Video Link](https://drive.google.com/drive/folders/1i9bM-rhi_Bx-PcBEeBZ5E7OtD7UsWidb?usp=sharing)
@@ -102,8 +91,8 @@ For Software:
 
 
 ## Team Contributions
-- [Pranav Pradeep]: [Proposed this idea, Made overall architecture,Did most coding]
-- [Sourav K]: [Updates,Bug fixes,Version Control,Deployment]
+- Pranav Pradeep: Proposed this idea, Made overall architecture,Did most coding,Prepared wireframe
+- Sourav K: Updates,Bug fixes,Version Control,Deployment
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
