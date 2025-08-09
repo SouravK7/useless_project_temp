@@ -80,7 +80,7 @@ For Software:
 
 
 # Diagrams
-![Workflow](screenshots1/3.jpg)  
+![Workflow](screenshots1/8.jpg)  
 *This diagram shows the overall workflow and architecture of the project.*
 
 
