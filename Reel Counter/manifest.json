@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "Instagram Reels Counter",
+  "version": "1.0",
+  "description": "Track live count of Instagram reels scrolled",
+  "permissions": [
+    "activeTab",
+    "storage"
+  ],
+  "host_permissions": [
+    "*://www.instagram.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["*://www.instagram.com/*"],
+      "js": ["content.js"],
+      "css": ["styles.css"]
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Instagram Reels Counter"
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}

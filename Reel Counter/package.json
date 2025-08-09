@@ -1,0 +1,40 @@
+{
+  "name": "instagram-reels-counter",
+  "version": "1.0.0",
+  "description": "A Chrome extension that tracks Instagram reels scrolled in real-time",
+  "main": "content.js",
+  "scripts": {
+    "build": "echo 'Extension ready for installation'",
+    "install": "echo 'Load this extension in Chrome by going to chrome://extensions/ and clicking Load Unpacked'",
+    "dev": "echo 'Development mode: Load unpacked extension in Chrome'"
+  },
+  "keywords": [
+    "instagram",
+    "reels",
+    "counter",
+    "tracker",
+    "chrome-extension",
+    "social-media",
+    "productivity"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/instagram-reels-counter"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/instagram-reels-counter/issues"
+  },
+  "homepage": "https://github.com/yourusername/instagram-reels-counter#readme",
+  "engines": {
+    "chrome": ">=88.0"
+  },
+  "permissions": [
+    "activeTab",
+    "storage"
+  ],
+  "host_permissions": [
+    "*://www.instagram.com/*"
+  ]
+}
